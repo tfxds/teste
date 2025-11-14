@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "554896289292@s.whatsapp.net",
+    "name": "Proativa - Daniel"
+  },
+  {
+    "id": "554884702167@s.whatsapp.net",
+    "name": "Vera Lucia Acuo Floripa"
+  },
+  {
+    "id": "554899336654@s.whatsapp.net",
+    "name": "Anderson Portela Interclass"
+  },
+  {
+    "id": "554899786435@s.whatsapp.net",
+    "name": "Dal Pont Via Nova"
+  },
+  {
+    "id": "554884245021@s.whatsapp.net",
+    "name": "Renan Olivo Fortello"
+  },
+  {
+    "id": "554891566711@s.whatsapp.net",
+    "name": "Gabriela Scaini"
+  },
+  {
+    "id": "554888431521@s.whatsapp.net",
+    "name": "Leandro Imepel"
+  },
+  {
+    "id": "554884047611@s.whatsapp.net",
+    "name": "Cli Rafael Geremias Antunes Acuo"
+  },
+  {
+    "id": "556536822924@s.whatsapp.net",
+    "name": "Cli - Stefany ALPI"
+  },
+  {
+    "id": "554830453512@s.whatsapp.net",
+    "name": "RJ Automação"
+  },
+  {
+    "id": "554898115954@s.whatsapp.net",
+    "name": "Ronan Ema"
+  },
+  {
+    "id": "554896014121@s.whatsapp.net",
+    "name": "Vânio Mendes Júnior Ti Gn"
+  },
+  {
+    "id": "554891122274@s.whatsapp.net",
+    "name": "Cli Peterson Texturize"
+  },
+  {
+    "id": "555134391820@s.whatsapp.net",
+    "name": "Fernanda Disfort"
+  },
+  {
+    "id": "554792844350@s.whatsapp.net",
+    "name": "Rodrigo TOTVs Lpt1 B. Goterra"
+  },
+  {
+    "id": "554899457701@s.whatsapp.net",
+    "name": "Alvani Spilere"
+  },
+  {
+    "id": "558192327968@s.whatsapp.net",
+    "name": "Berg URC"
+  },
+  {
+    "id": "554891584923@s.whatsapp.net",
+    "name": "Cli Bolan Fort"
+  },
+  {
+    "id": "554884047619@s.whatsapp.net",
+    "name": "Cli Financeiro Acuo"
+  },
+  {
+    "id": "554891538706@s.whatsapp.net",
+    "name": "Suporte"
+  },
+  {
+    "id": "554899357717@s.whatsapp.net",
+    "name": "Filipe Fort"
+  },
+  {
+    "id": "554899269956@s.whatsapp.net",
+    "name": "Andre Ma"
+  },
+  {
+    "id": "554884031158@s.whatsapp.net",
+    "name": "Andre Faria - Financeiro Deps"
+  },
+  {
+    "id": "554891672583@s.whatsapp.net",
+    "name": "Cli Laila Acuo"
+  },
+  {
+    "id": "554891815535@s.whatsapp.net",
+    "name": "Lais Acuo"
+  },
+  {
+    "id": "554896071447@s.whatsapp.net",
+    "name": "Vagner Zaboni"
+  },
+  {
+    "id": "5511991989377@s.whatsapp.net",
+    "name": "HPE Bruno Marcucci"
+  },
+  {
+    "id": "554892033847@s.whatsapp.net",
+    "name": "Viviane Spa"
+  },
+  {
+    "id": "554891481975@s.whatsapp.net",
+    "name": "Juliana Acuo"
+  },
+  {
+    "id": "554899541451@s.whatsapp.net",
+    "name": "Cli Erica Alamini Fort"
+  },
+  {
+    "id": "554896082906@s.whatsapp.net",
+    "name": "Greifell Borges"
+  },
+  {
+    "id": "555185169443@s.whatsapp.net",
+    "name": "Giovani Interclass"
+  },
+  {
+    "id": "554898449207@s.whatsapp.net",
+    "name": "Dal Pont Sao Luis"
+  },
+  {
+    "id": "554896325934@s.whatsapp.net",
+    "name": "Cli Darcio Fort"
+  },
+  {
+    "id": "554884110359@s.whatsapp.net",
+    "name": "EMA Fernando"
+  },
+  {
+    "id": "554891458475@s.whatsapp.net",
+    "name": "Nehuen Diego FHC"
+  },
+  {
+    "id": "554891274182@s.whatsapp.net",
+    "name": "EngePlus WhatsApp"
+  },
+  {
+    "id": "555199752914@s.whatsapp.net",
+    "name": "Everton POA"
+  },
+  {
+    "id": "554898391981@s.whatsapp.net",
+    "name": "Eliel"
+  },
+  {
+    "id": "554896039290@s.whatsapp.net",
+    "name": "Fernando Mariot Expresso"
+  },
+  {
+    "id": "554899870971@s.whatsapp.net",
+    "name": "Hemosc Luciana"
+  },
+  {
+    "id": "554898280440@s.whatsapp.net",
+    "name": "Cli Glauber Agapé"
+  },
+  {
+    "id": "554834425574@s.whatsapp.net",
+    "name": "Televendas Jenifer Fort"
+  },
+  {
+    "id": "554888055463@s.whatsapp.net",
+    "name": "AndreON"
+  },
+  {
+    "id": "554899048702@s.whatsapp.net",
+    "name": "Cli Agape Laerte"
+  },
+  {
+    "id": "554891043135@s.whatsapp.net",
+    "name": "Renato Proativa"
+  },
+  {
+    "id": "554988529092@s.whatsapp.net",
+    "name": "Paulo Lamipack"
+  },
+  {
+    "id": "554899986752@s.whatsapp.net",
+    "name": "Andre Dalsaso"
+  },
+  {
+    "id": "554896430391@s.whatsapp.net",
+    "name": "Comercial audades Vanessa"
+  },
+  {
+    "id": "554896116262@s.whatsapp.net",
+    "name": "Claudia Acuo"
+  },
+  {
+    "id": "554791056232@s.whatsapp.net",
+    "name": "Jorge FGM"
+  },
+  {
+    "id": "554899163644@s.whatsapp.net",
+    "name": "Geraldo Multitask"
+  },
+  {
+    "id": "554891978514@s.whatsapp.net",
+    "name": "Guilherme 2Tabelionato"
+  },
+  {
+    "id": "554888140056@s.whatsapp.net",
+    "name": "Cli Giani Texturize"
+  },
+  {
+    "id": "554896838743@s.whatsapp.net",
+    "name": "Hemosc Willian"
+  },
+  {
+    "id": "554899531812@s.whatsapp.net",
+    "name": "Hemosc Odemar"
+  },
+  {
+    "id": "554899784234@s.whatsapp.net",
+    "name": "Marcela URC"
+  },
+  {
+    "id": "555496716699@s.whatsapp.net",
+    "name": "Renan Tri Hotel"
+  },
+  {
+    "id": "554899794149@s.whatsapp.net",
+    "name": "Diógenes"
+  },
+  {
+    "id": "554834136119@s.whatsapp.net",
+    "name": "Moises Dotfile"
+  },
+  {
+    "id": "554888248810@s.whatsapp.net",
+    "name": "Marcelo Purapan"
+  },
+  {
+    "id": "554891968715@s.whatsapp.net",
+    "name": "Posto"
+  },
+  {
+    "id": "554899293385@s.whatsapp.net",
+    "name": "Cli Maria Julia Agapé"
+  },
+  {
+    "id": "554899795419@s.whatsapp.net",
+    "name": "Paula Acuo"
+  },
+  {
+    "id": "554898500017@s.whatsapp.net",
+    "name": "engeplus suporte"
+  },
+  {
+    "id": "554891931305@s.whatsapp.net",
+    "name": "Cli Clovis Molon Jana"
+  },
+  {
+    "id": "554896219930@s.whatsapp.net",
+    "name": "Realdo Mileto"
+  },
+  {
+    "id": "554896043827@s.whatsapp.net",
+    "name": "Fabiany Ferrotur"
+  },
+  {
+    "id": "555496038389@s.whatsapp.net",
+    "name": "Cli Thayane Batatas Molon"
+  },
+  {
+    "id": "554899023163@s.whatsapp.net",
+    "name": "Cli Cristiano Librelato"
+  },
+  {
+    "id": "554899194140@s.whatsapp.net",
+    "name": "Cli Leandro Goes"
+  },
+  {
+    "id": "554896595612@s.whatsapp.net",
+    "name": "AlineFort"
+  },
+  {
+    "id": "554891913219@s.whatsapp.net",
+    "name": "Yuri CEPON"
+  },
+  {
+    "id": "554834319420@s.whatsapp.net",
+    "name": "RD - Rafa"
+  },
+  {
+    "id": "556286567849@s.whatsapp.net",
+    "name": "Rhomulo Fort Goiás"
+  },
+  {
+    "id": "554899818172@s.whatsapp.net",
+    "name": "Maycon Dotfile"
+  },
+  {
+    "id": "554834450145@s.whatsapp.net",
+    "name": "Bauer Distribuidora"
+  },
+  {
+    "id": "554896227059@s.whatsapp.net",
+    "name": "Mateus Deps"
+  },
+  {
+    "id": "5521985308689@s.whatsapp.net",
+    "name": "Simone Moura"
+  },
+  {
+    "id": "5511975459336@s.whatsapp.net",
+    "name": "Geovane Qualiserve"
+  },
+  {
+    "id": "554896077526@s.whatsapp.net",
+    "name": "Cli Gustavo Ouro Negro"
+  },
+  {
+    "id": "555181251231@s.whatsapp.net",
+    "name": "RW POA"
+  },
+  {
+    "id": "554899786683@s.whatsapp.net",
+    "name": "Cli Dopping Thiago"
+  },
+  {
+    "id": "554899357464@s.whatsapp.net",
+    "name": "Rafael Box"
+  },
+  {
+    "id": "554899278255@s.whatsapp.net",
+    "name": "Cli Jeff Plurall"
+  },
+  {
+    "id": "554899358086@s.whatsapp.net",
+    "name": "FernandoExpresso"
+  },
+  {
+    "id": "555183221117@s.whatsapp.net",
+    "name": "Auditel POA"
+  },
+  {
+    "id": "551120998110@s.whatsapp.net",
+    "name": "Suporte Totvs"
+  },
+  {
+    "id": "554899147673@s.whatsapp.net",
+    "name": "Cli Edneia Acuo"
+  },
+  {
+    "id": "554896624185@s.whatsapp.net",
+    "name": "Cli Jessica HSJB"
+  },
+  {
+    "id": "557197292966@s.whatsapp.net",
+    "name": "Rosivaldo - SysDesign"
+  },
+  {
+    "id": "554899009544@s.whatsapp.net",
+    "name": "Hamilton - Hemosc"
+  },
+  {
+    "id": "554791762948@s.whatsapp.net",
+    "name": "Breno SAMU"
+  },
+  {
+    "id": "556584617138@s.whatsapp.net",
+    "name": "Paulo Fort MT"
+  },
+  {
+    "id": "554891926815@s.whatsapp.net",
+    "name": "Cli Juliana Destro Acuo"
+  },
+  {
+    "id": "554891646775@s.whatsapp.net",
+    "name": "Luiz EO Solar"
+  },
+  {
+    "id": "554896252856@s.whatsapp.net",
+    "name": "Mari Agape"
+  },
+  {
+    "id": "554884047607@s.whatsapp.net",
+    "name": "Cli Acuo Eli"
+  },
+  {
+    "id": "556536821439@s.whatsapp.net",
+    "name": "Fort Mato Grosso"
+  },
+  {
+    "id": "555197566438@s.whatsapp.net",
+    "name": "Douglas Fort"
+  },
+  {
+    "id": "554788896290@s.whatsapp.net",
+    "name": "Cleber Tri Hoteis"
+  },
+  {
+    "id": "554884047612@s.whatsapp.net",
+    "name": "Cli Acuo Flavia"
+  },
+  {
+    "id": "554898185386@s.whatsapp.net",
+    "name": "Lsystem"
+  },
+  {
+    "id": "553195873372@s.whatsapp.net",
+    "name": "Ewander Felix Ferreira belfar"
+  },
+  {
+    "id": "554891924773@s.whatsapp.net",
+    "name": "Guilherme Purapan"
+  },
+  {
+    "id": "554898280404@s.whatsapp.net",
+    "name": "Mariely"
+  },
+  {
+    "id": "554898106151@s.whatsapp.net",
+    "name": "Contato Petcampo São José"
+  },
+  {
+    "id": "554899267270@s.whatsapp.net",
+    "name": "Gisele Fortelo"
+  },
+  {
+    "id": "555191593507@s.whatsapp.net",
+    "name": "Bernardo Spinelli"
+  },
+  {
+    "id": "554896074405@s.whatsapp.net",
+    "name": "Hotel Interclass Rubens"
+  },
+  {
+    "id": "554891171250@s.whatsapp.net",
+    "name": "Cli Suzane Lonh Bier"
+  },
+  {
+    "id": "554898488899@s.whatsapp.net",
+    "name": "Tarcísio Hsjb"
+  },
+  {
+    "id": "554899161601@s.whatsapp.net",
+    "name": "Gilmar Synter"
+  },
+  {
+    "id": "556281362968@s.whatsapp.net",
+    "name": "Uigor Fort"
+  },
+  {
+    "id": "554896130909@s.whatsapp.net",
+    "name": "HEMOSC Monica"
+  },
+  {
+    "id": "554899363037@s.whatsapp.net",
+    "name": "Cli Deps Anderson"
+  },
+  {
+    "id": "553194833653@s.whatsapp.net",
+    "name": "Guilherme Belfar"
+  },
+  {
+    "id": "554899171395@s.whatsapp.net",
+    "name": "La Moda Diego"
+  },
+  {
+    "id": "557192717610@s.whatsapp.net",
+    "name": "Rodrigo Fahece"
+  },
+  {
+    "id": "554888470086@s.whatsapp.net",
+    "name": "Daniel FAHECE"
+  },
+  {
+    "id": "554896013074@s.whatsapp.net",
+    "name": "Rafael ON"
+  },
+  {
+    "id": "554896611200@s.whatsapp.net",
+    "name": "Acuo Matriz Thais"
+  },
+  {
+    "id": "554884266962@s.whatsapp.net",
+    "name": "Samuel Proativa"
+  },
+  {
+    "id": "554799915732@s.whatsapp.net",
+    "name": "Andre Ti Blumenau"
+  },
+  {
+    "id": "555198516443@s.whatsapp.net",
+    "name": "Giovani Interclass"
+  },
+  {
+    "id": "554999013410@s.whatsapp.net",
+    "name": "Barbara - Hemosc"
+  },
+  {
+    "id": "554896998905@s.whatsapp.net",
+    "name": "Ponto Deps"
+  },
+  {
+    "id": "554891846895@s.whatsapp.net",
+    "name": "Dionatan Csss"
+  },
+  {
+    "id": "554891856203@s.whatsapp.net",
+    "name": "Alexandre Libre"
+  },
+  {
+    "id": "553192724533@s.whatsapp.net",
+    "name": "Felipe CEPON"
+  },
+  {
+    "id": "554896577857@s.whatsapp.net",
+    "name": "Sandro Cameras Acuo"
+  },
+  {
+    "id": "554898626362@s.whatsapp.net",
+    "name": "Tatiane Peruch Fortelo"
+  },
+  {
+    "id": "554899275538@s.whatsapp.net",
+    "name": "Cli Eder Fort"
+  },
+  {
+    "id": "555132151800@s.whatsapp.net",
+    "name": "Banrisul"
+  },
+  {
+    "id": "554898208998@s.whatsapp.net",
+    "name": "HEMOSC Mateus"
+  },
+  {
+    "id": "554899232023@s.whatsapp.net",
+    "name": "Gisele Ferrotur"
+  },
+  {
+    "id": "554888509938@s.whatsapp.net",
+    "name": "Arthur Deps"
+  },
+  {
+    "id": "554896156709@s.whatsapp.net",
+    "name": "Cristian Casta"
+  },
+  {
+    "id": "554891249054@s.whatsapp.net",
+    "name": "Lucas Protect"
+  },
+  {
+    "id": "554899844020@s.whatsapp.net",
+    "name": "Cli Ricardo Fort"
+  },
+  {
+    "id": "554896898911@s.whatsapp.net",
+    "name": "Cli Everton Acuo"
+  },
+  {
+    "id": "554988098025@s.whatsapp.net",
+    "name": "Ireus Lamipack"
+  },
+  {
+    "id": "554896069333@s.whatsapp.net",
+    "name": "Lazi DalPont"
+  },
+  {
+    "id": "555189164212@s.whatsapp.net",
+    "name": "Roberto Mais Micro Poa"
+  },
+  {
+    "id": "554896994332@s.whatsapp.net",
+    "name": "Mariana Aléssio Acup"
+  },
+  {
+    "id": "554888238869@s.whatsapp.net",
+    "name": "Contato RJ 1"
+  },
+  {
+    "id": "554891246333@s.whatsapp.net",
+    "name": "Jean All ponto"
+  },
+  {
+    "id": "554896475756@s.whatsapp.net",
+    "name": "Cli Jaison Pet Campo"
+  },
+  {
+    "id": "554896690776@s.whatsapp.net",
+    "name": "Eduardo Acuo"
+  },
+  {
+    "id": "554891836632@s.whatsapp.net",
+    "name": "Joice Contato"
+  },
+  {
+    "id": "554896213232@s.whatsapp.net",
+    "name": "Jean Ema"
+  },
+  {
+    "id": "554891732394@s.whatsapp.net",
+    "name": "Orsec Vanessa"
+  },
+  {
+    "id": "554896580138@s.whatsapp.net",
+    "name": "Angelo Fonesul"
+  },
+  {
+    "id": "554884090217@s.whatsapp.net",
+    "name": "Hemosc Rafael"
+  },
+  {
+    "id": "554899780200@s.whatsapp.net",
+    "name": "Flávio Haco"
+  },
+  {
+    "id": "554899100712@s.whatsapp.net",
+    "name": "André Deps"
+  },
+  {
+    "id": "554791496641@s.whatsapp.net",
+    "name": "Lorenzo Bonatti"
+  },
+  {
+    "id": "554899562909@s.whatsapp.net",
+    "name": "HEMOSC Luana"
+  },
+  {
+    "id": "554899266134@s.whatsapp.net",
+    "name": "Microondas"
+  },
+  {
+    "id": "554896128657@s.whatsapp.net",
+    "name": "Cli Rogerio Tecido Texturize"
+  },
+  {
+    "id": "554799154341@s.whatsapp.net",
+    "name": "Andre Elo Verde"
+  },
+  {
+    "id": "554888358821@s.whatsapp.net",
+    "name": "Pablo Hemosc"
+  },
+  {
+    "id": "554791458295@s.whatsapp.net",
+    "name": "Raphael Totvs"
+  },
+  {
+    "id": "554891102974@s.whatsapp.net",
+    "name": "Daniele Bueno"
+  },
+  {
+    "id": "554896843578@s.whatsapp.net",
+    "name": "Filipe Anjo"
+  },
+  {
+    "id": "554896652066@s.whatsapp.net",
+    "name": "Proativa Suporte"
+  },
+  {
+    "id": "554898286079@s.whatsapp.net",
+    "name": "Tainara Deps"
+  },
+  {
+    "id": "554891902502@s.whatsapp.net",
+    "name": "Rafaela França"
+  },
+  {
+    "id": "554896553667@s.whatsapp.net",
+    "name": "Marianne Acuo"
+  },
+  {
+    "id": "554891485125@s.whatsapp.net",
+    "name": "Cli Acuo Dafne"
+  },
+  {
+    "id": "554891557473@s.whatsapp.net",
+    "name": "Loja Acuo Farol"
+  },
+  {
+    "id": "554834427479@s.whatsapp.net",
+    "name": "Qnet Suporte"
+  },
+  {
+    "id": "554999165870@s.whatsapp.net",
+    "name": "David Lamipack"
+  },
+  {
+    "id": "556186651077@s.whatsapp.net",
+    "name": "Cli Tatiane Fort Brasília"
+  },
+  {
+    "id": "556599810405@s.whatsapp.net",
+    "name": "Adenaldo Gerente Filial Alpi"
+  },
+  {
+    "id": "554835120000@s.whatsapp.net",
+    "name": "Deps"
+  },
+  {
+    "id": "554896270746@s.whatsapp.net",
+    "name": "Breno BRConnec"
+  },
+  {
+    "id": "554884413886@s.whatsapp.net",
+    "name": "Luciena - Correios"
+  },
+  {
+    "id": "554899220145@s.whatsapp.net",
+    "name": "Edvan Deps"
+  },
+  {
+    "id": "556285851011@s.whatsapp.net",
+    "name": "Claudio Ti Goias"
+  },
+  {
+    "id": "554891568989@s.whatsapp.net",
+    "name": "Uno Tubarao 12500"
+  },
+  {
+    "id": "5521996638254@s.whatsapp.net",
+    "name": "Deiberto Joaz"
+  },
+  {
+    "id": "554899844285@s.whatsapp.net",
+    "name": "Tonet - Fort"
+  },
+  {
+    "id": "554788625690@s.whatsapp.net",
+    "name": "Cli Geraldo Unifique"
+  },
+  {
+    "id": "555184191337@s.whatsapp.net",
+    "name": "Douglas Gerente Comercial Fort"
+  },
+  {
+    "id": "554896082330@s.whatsapp.net",
+    "name": "Vinicius Unimed"
+  },
+  {
+    "id": "554899591719@s.whatsapp.net",
+    "name": "Giorgiana Acuo"
+  },
+  {
+    "id": "554891365409@s.whatsapp.net",
+    "name": "Cli Hugo Dal Pont"
+  },
+  {
+    "id": "554899849664@s.whatsapp.net",
+    "name": "Arthur Dp"
+  },
+  {
+    "id": "554835248090@s.whatsapp.net",
+    "name": "Inovar Sistemas"
+  },
+  {
+    "id": "555499710327@s.whatsapp.net",
+    "name": "Gean Batatas Molon"
+  },
+  {
+    "id": "554899792359@s.whatsapp.net",
+    "name": "Carol Nunes Acuo"
+  },
+  {
+    "id": "554899082770@s.whatsapp.net",
+    "name": "Gilson Naspolini"
+  },
+  {
+    "id": "556599591723@s.whatsapp.net",
+    "name": "Adenaldo Fort"
+  },
+  {
+    "id": "554899467056@s.whatsapp.net",
+    "name": "Diones Acuo"
+  },
+  {
+    "id": "554899597299@s.whatsapp.net",
+    "name": "William Deps"
+  },
+  {
+    "id": "554896334898@s.whatsapp.net",
+    "name": "Schainan Goes"
+  },
+  {
+    "id": "554899502002@s.whatsapp.net",
+    "name": "Tati Ecommerce Acuo"
+  },
+  {
+    "id": "554898675529@s.whatsapp.net",
+    "name": "Cli Acuo Tati"
+  },
+  {
+    "id": "554899581649@s.whatsapp.net",
+    "name": "Ane Texturize"
+  },
+  {
+    "id": "554999630659@s.whatsapp.net",
+    "name": "Paula Hemosc"
+  },
+  {
+    "id": "554899783510@s.whatsapp.net",
+    "name": "Jonas RC Contabilidade"
+  },
+  {
+    "id": "554898519044@s.whatsapp.net",
+    "name": "Loja Bruna"
+  },
+  {
+    "id": "553173058300@s.whatsapp.net",
+    "name": "GE Healthcare Frederico"
+  },
+  {
+    "id": "554891694465@s.whatsapp.net",
+    "name": "Gabriel"
+  },
+  {
+    "id": "554891625853@s.whatsapp.net",
+    "name": "Cli Bruno Agapé"
+  },
+  {
+    "id": "554884061921@s.whatsapp.net",
+    "name": "Vilson Tonetti Fort"
+  },
+  {
+    "id": "554891247540@s.whatsapp.net",
+    "name": "Glauco Goes"
+  },
+  {
+    "id": "554896210504@s.whatsapp.net",
+    "name": "Cli Renata Ferrotur"
+  },
+  {
+    "id": "554896995264@s.whatsapp.net",
+    "name": "Oficina Uno"
+  },
+  {
+    "id": "554899718454@s.whatsapp.net",
+    "name": "Amarildo"
+  },
+  {
+    "id": "554899483222@s.whatsapp.net",
+    "name": "Haroldo"
+  },
+  {
+    "id": "554896194578@s.whatsapp.net",
+    "name": "Isabela Unimed"
+  },
+  {
+    "id": "554896644590@s.whatsapp.net",
+    "name": "Luciana Proativa"
+  },
+  {
+    "id": "555134394202@s.whatsapp.net",
+    "name": "Fort RS"
+  },
+  {
+    "id": "554884213050@s.whatsapp.net",
+    "name": "Cli Fortelo Eron Olivo"
+  },
+  {
+    "id": "557182763800@s.whatsapp.net",
+    "name": "Sysdesign Plantão"
+  },
+  {
+    "id": "554891181913@s.whatsapp.net",
+    "name": "Alice Hemosc"
+  },
+  {
+    "id": "554899189191@s.whatsapp.net",
+    "name": "Br Informatica"
+  },
+  {
+    "id": "554898520238@s.whatsapp.net",
+    "name": "Gledson Gerente Filial Fort"
+  },
+  {
+    "id": "554896307012@s.whatsapp.net",
+    "name": "Guilherme Agapé"
+  },
+  {
+    "id": "554834200626@s.whatsapp.net",
+    "name": "Rita - Cadastros Clientes -Fort Distribuidora"
+  },
+  {
+    "id": "554891727669@s.whatsapp.net",
+    "name": "ON - Gustavo"
+  },
+  {
+    "id": "555141190035@s.whatsapp.net",
+    "name": "Aks info POA"
+  },
+  {
+    "id": "554899867079@s.whatsapp.net",
+    "name": "Luis Acuo"
+  },
+  {
+    "id": "554891747569@s.whatsapp.net",
+    "name": "Pedro Deps"
+  },
+  {
+    "id": "554899547359@s.whatsapp.net",
+    "name": "Grafica Ribeiro"
+  },
+  {
+    "id": "554899388474@s.whatsapp.net",
+    "name": "Henrique URC Part"
+  },
+  {
+    "id": "554899159147@s.whatsapp.net",
+    "name": "Viviana Acuo"
+  },
+  {
+    "id": "554899783716@s.whatsapp.net",
+    "name": "Cli Mira"
+  },
+  {
+    "id": "555134394203@s.whatsapp.net",
+    "name": "Fort RS"
+  },
+  {
+    "id": "554896611188@s.whatsapp.net",
+    "name": "Acuo Loja Getúlio Vargas"
+  },
+  {
+    "id": "554899215639@s.whatsapp.net",
+    "name": "Cli Pet Campo Karina"
+  },
+  {
+    "id": "554896426734@s.whatsapp.net",
+    "name": "Cli Maiara Deps"
+  },
+  {
+    "id": "554898624349@s.whatsapp.net",
+    "name": "Poliana Hupi"
+  },
+  {
+    "id": "555182476128@s.whatsapp.net",
+    "name": "Bruno Disfort"
+  },
+  {
+    "id": "554896225170@s.whatsapp.net",
+    "name": "Cli Alexandre Sabino Clinigastro"
+  },
+  {
+    "id": "554891089038@s.whatsapp.net",
+    "name": "Juliann Casa De Saude"
+  },
+  {
+    "id": "554888010832@s.whatsapp.net",
+    "name": "Marcela URC"
+  },
+  {
+    "id": "554899358653@s.whatsapp.net",
+    "name": "Acuo Loja Shopping Nações"
+  },
+  {
+    "id": "551135440550@s.whatsapp.net",
+    "name": "Locaweb"
+  },
+  {
+    "id": "554896594630@s.whatsapp.net",
+    "name": "Yasmim Agape"
+  },
+  {
+    "id": "554896333038@s.whatsapp.net",
+    "name": "Leonardo Ponto Texturize"
+  },
+  {
+    "id": "554888150320@s.whatsapp.net",
+    "name": "Bruno Burnweb"
+  },
+  {
+    "id": "555183313705@s.whatsapp.net",
+    "name": "Roberta ACUO"
+  },
+  {
+    "id": "554899844037@s.whatsapp.net",
+    "name": "NazarenoChroma"
+  },
+  {
+    "id": "554896362021@s.whatsapp.net",
+    "name": "Rosane Synter"
+  },
+  {
+    "id": "554834420804@s.whatsapp.net",
+    "name": "Televendas Priscila - Fort"
+  },
+  {
+    "id": "554888184395@s.whatsapp.net",
+    "name": "048988184395"
+  },
+  {
+    "id": "555197646324@s.whatsapp.net",
+    "name": "Loja Acuo Porto Alegre"
+  },
+  {
+    "id": "554898280405@s.whatsapp.net",
+    "name": "Carolina Agapé"
+  },
+  {
+    "id": "554834200349@s.whatsapp.net",
+    "name": "Faturamento Fort Santa Catarina"
+  },
+  {
+    "id": "554834319419@s.whatsapp.net",
+    "name": "Andre Romão RD"
+  },
+  {
+    "id": "555499468026@s.whatsapp.net",
+    "name": "Dayane Batatas Molon"
+  },
+  {
+    "id": "554899993652@s.whatsapp.net",
+    "name": "Andre Protect1"
+  },
+  {
+    "id": "554899359954@s.whatsapp.net",
+    "name": "Luan Setup"
+  },
+  {
+    "id": "554834393010@s.whatsapp.net",
+    "name": "Fort Nicole Televendas"
+  },
+  {
+    "id": "554891305017@s.whatsapp.net",
+    "name": "Eduardo Domínio Sistemas"
+  },
+  {
+    "id": "554896075547@s.whatsapp.net",
+    "name": "Amanda Acuo"
+  },
+  {
+    "id": "554891902290@s.whatsapp.net",
+    "name": "Rogério Ema"
+  },
+  {
+    "id": "554788616794@s.whatsapp.net",
+    "name": "Luiz Gustavo Selbetti"
+  },
+  {
+    "id": "554891574819@s.whatsapp.net",
+    "name": "Fabiana - Acuo"
+  },
+  {
+    "id": "555192990982@s.whatsapp.net",
+    "name": "Jemima Bruma"
+  },
+  {
+    "id": "554896067410@s.whatsapp.net",
+    "name": "Fort - Eloise"
+  },
+  {
+    "id": "554896654650@s.whatsapp.net",
+    "name": "Italo Acuo"
+  },
+  {
+    "id": "5527996882404@s.whatsapp.net",
+    "name": "Ivanilson"
+  },
+  {
+    "id": "554899516801@s.whatsapp.net",
+    "name": "Danuel"
+  },
+  {
+    "id": "554896887124@s.whatsapp.net",
+    "name": "Ivan"
+  },
+  {
+    "id": "554896940988@s.whatsapp.net",
+    "name": "Clic Gabriela Texturize"
+  },
+  {
+    "id": "554891099353@s.whatsapp.net",
+    "name": "Acuo Luana Pucker"
+  },
+  {
+    "id": "554884211202@s.whatsapp.net",
+    "name": "André Commix"
+  },
+  {
+    "id": "554899782567@s.whatsapp.net",
+    "name": "Marcio PD Sitemas"
+  },
+  {
+    "id": "554896671503@s.whatsapp.net",
+    "name": "Emmanuel Acuo"
+  },
+  {
+    "id": "554884513101@s.whatsapp.net",
+    "name": "Shamara FAHECE"
+  },
+  {
+    "id": "554891398661@s.whatsapp.net",
+    "name": "Jordan ON"
+  },
+  {
+    "id": "554891558901@s.whatsapp.net",
+    "name": "Gustavo Plurall"
+  },
+  {
+    "id": "554891146681@s.whatsapp.net",
+    "name": "Leandro Mendes"
+  },
+  {
+    "id": "554884047620@s.whatsapp.net",
+    "name": "Cli Acuo Loja Iguatemi Loja05"
+  },
+  {
+    "id": "554899672662@s.whatsapp.net",
+    "name": "Paulo TI Cepon"
+  },
+  {
+    "id": "554899278012@s.whatsapp.net",
+    "name": "Júlio Cesar"
+  },
+  {
+    "id": "554899756124@s.whatsapp.net",
+    "name": "Felipe Rodrigues (EMA)"
+  },
+  {
+    "id": "554891949783@s.whatsapp.net",
+    "name": "Gabriel Protect"
+  },
+  {
+    "id": "555134319188@s.whatsapp.net",
+    "name": "Power System Tec"
+  },
+  {
+    "id": "554888427854@s.whatsapp.net",
+    "name": "Jaison URC"
+  },
+  {
+    "id": "554891132500@s.whatsapp.net",
+    "name": "Willyan Deps"
+  },
+  {
+    "id": "554884663865@s.whatsapp.net",
+    "name": "Jhonatan Agape"
+  },
+  {
+    "id": "555185337915@s.whatsapp.net",
+    "name": "Karina Acuo Poa"
+  },
+  {
+    "id": "556134561530@s.whatsapp.net",
+    "name": "Fort DF Brasília"
+  },
+  {
+    "id": "5511994143794@s.whatsapp.net",
+    "name": "Lic Adobe"
+  },
+  {
+    "id": "554884030229@s.whatsapp.net",
+    "name": "Simone Deps"
+  },
+  {
+    "id": "554896700832@s.whatsapp.net",
+    "name": "Rafael Hsjb Unimed"
+  },
+  {
+    "id": "554891051801@s.whatsapp.net",
+    "name": "Cli Paloma Fort"
+  },
+  {
+    "id": "554896127419@s.whatsapp.net",
+    "name": "Gisele FortExped"
+  },
+  {
+    "id": "554792539914@s.whatsapp.net",
+    "name": "Guilherme Unifique"
+  },
+  {
+    "id": "555192952043@s.whatsapp.net",
+    "name": "Fort RS Bernardo"
+  },
+  {
+    "id": "554899949619@s.whatsapp.net",
+    "name": "Hamilton"
+  },
+  {
+    "id": "555496557880@s.whatsapp.net",
+    "name": "Acuo Natalia Giassoni"
+  },
+  {
+    "id": "556291891496@s.whatsapp.net",
+    "name": "Cli Sharline Fort"
+  },
+  {
+    "id": "554888145581@s.whatsapp.net",
+    "name": "EC Poa"
+  },
+  {
+    "id": "554898453940@s.whatsapp.net",
+    "name": "Guilherme Ti Agape"
+  },
+  {
+    "id": "554898005743@s.whatsapp.net",
+    "name": "Quem?"
+  },
+  {
+    "id": "554899765754@s.whatsapp.net",
+    "name": "Cli Tati Urc"
+  },
+  {
+    "id": "554898610764@s.whatsapp.net",
+    "name": "Renato - Fort RH"
+  },
+  {
+    "id": "554896492777@s.whatsapp.net",
+    "name": "Jeff Libre"
+  },
+  {
+    "id": "554896858011@s.whatsapp.net",
+    "name": "Giorgiana Acuo 💕"
+  },
+  {
+    "id": "554891493006@s.whatsapp.net",
+    "name": "Luiz Fernando Fahece"
+  },
+  {
+    "id": "554896158069@s.whatsapp.net",
+    "name": "Vilmar SAMU"
+  },
+  {
+    "id": "5511985625975@s.whatsapp.net",
+    "name": "It4 Solution Diego"
+  },
+  {
+    "id": "554896038951@s.whatsapp.net",
+    "name": "Alison Berti Proativa"
+  },
+  {
+    "id": "554884030853@s.whatsapp.net",
+    "name": "Panavision Contato"
+  },
+  {
+    "id": "554140639949@s.whatsapp.net",
+    "name": "Crm 360 - TOTVS"
+  },
+  {
+    "id": "554899429132@s.whatsapp.net",
+    "name": "AugustoLamoda"
+  },
+  {
+    "id": "554196461908@s.whatsapp.net",
+    "name": "Cli Pagane Rbn"
+  },
+  {
+    "id": "554896345885@s.whatsapp.net",
+    "name": "Andrey"
+  },
+  {
+    "id": "554898280444@s.whatsapp.net",
+    "name": "Adm Agape"
+  },
+  {
+    "id": "554896287912@s.whatsapp.net",
+    "name": "Max Samu"
+  },
+  {
+    "id": "554898313191@s.whatsapp.net",
+    "name": "Guilherme Texturize"
+  },
+  {
+    "id": "555180646755@s.whatsapp.net",
+    "name": "Acuo- Caroline Comunicação"
+  },
+  {
+    "id": "554884619868@s.whatsapp.net",
+    "name": "Chico - EMA"
+  },
+  {
+    "id": "554898471739@s.whatsapp.net",
+    "name": "Lawrence Matildes CEPON"
+  },
+  {
+    "id": "554792423564@s.whatsapp.net",
+    "name": "Alencar Venske - Tri Hotel"
+  },
+  {
+    "id": "554899949388@s.whatsapp.net",
+    "name": "Cli Zelinda Advogada"
+  },
+  {
+    "id": "554896208909@s.whatsapp.net",
+    "name": "Acuo-Marcela Design"
+  },
+  {
+    "id": "5511986493547@s.whatsapp.net",
+    "name": "Cli Renata Deps"
+  },
+  {
+    "id": "554898300123@s.whatsapp.net",
+    "name": "Neemias"
+  },
+  {
+    "id": "553498887072@s.whatsapp.net",
+    "name": "Algar Empresas"
+  },
+  {
+    "id": "556199148480@s.whatsapp.net",
+    "name": "Lucia Gerente Filial Brasfort"
+  },
+  {
+    "id": "554898286742@s.whatsapp.net",
+    "name": "Camila Goes"
+  },
+  {
+    "id": "554896440904@s.whatsapp.net",
+    "name": "Elen Fort"
+  },
+  {
+    "id": "554891835123@s.whatsapp.net",
+    "name": "Quem Acuo"
+  },
+  {
+    "id": "554888349444@s.whatsapp.net",
+    "name": "Hemosc Rosemery"
+  },
+  {
+    "id": "554896998113@s.whatsapp.net",
+    "name": "Luisa Acuo"
+  },
+  {
+    "id": "554896137636@s.whatsapp.net",
+    "name": "Rogério - Protect"
+  },
+  {
+    "id": "554834612317@s.whatsapp.net",
+    "name": "Suporte Goes"
+  },
+  {
+    "id": "554899136047@s.whatsapp.net",
+    "name": "Rafael Net Pacs URC"
+  },
+  {
+    "id": "554898563547@s.whatsapp.net",
+    "name": "Iris Lohn"
+  },
+  {
+    "id": "554899478608@s.whatsapp.net",
+    "name": "Mariane"
+  },
+  {
+    "id": "554891217271@s.whatsapp.net",
+    "name": "Luiz TI CEPON"
+  },
+  {
+    "id": "554891489451@s.whatsapp.net",
+    "name": "CLI Fernando Plurall"
+  },
+  {
+    "id": "554896268802@s.whatsapp.net",
+    "name": "Haco WhatsApp"
+  },
+  {
+    "id": "554998049939@s.whatsapp.net",
+    "name": "Cli Loja Acuo Chapecó"
+  },
+  {
+    "id": "554891915408@s.whatsapp.net",
+    "name": "Carolini EMA"
+  },
+  {
+    "id": "554896511957@s.whatsapp.net",
+    "name": "Byanca"
+  },
+  {
+    "id": "554888319800@s.whatsapp.net",
+    "name": "CEPON Henrique"
+  },
+  {
+    "id": "554299996435@s.whatsapp.net",
+    "name": "Renan Cepon"
+  },
+  {
+    "id": "554898522159@s.whatsapp.net",
+    "name": "Suelen Petcampo"
+  },
+  {
+    "id": "554896669986@s.whatsapp.net",
+    "name": "Eduarda Fort"
+  },
+  {
+    "id": "554891220401@s.whatsapp.net",
+    "name": "Cli Gustavo Hsjb"
+  },
+  {
+    "id": "554896393089@s.whatsapp.net",
+    "name": "Mari Loja"
+  },
+  {
+    "id": "554898316660@s.whatsapp.net",
+    "name": "Tiago 2o Tabelionato"
+  },
+  {
+    "id": "554899997583@s.whatsapp.net",
+    "name": "Gustavo - Hspot"
+  },
+  {
+    "id": "554896533775@s.whatsapp.net",
+    "name": "Cli Edimar Texturize"
+  },
+  {
+    "id": "554888618197@s.whatsapp.net",
+    "name": "Fernando Dal Carobo"
+  },
+  {
+    "id": "554896962276@s.whatsapp.net",
+    "name": "Sheila Gerente Acuo Beira Mar"
+  },
+  {
+    "id": "554899265014@s.whatsapp.net",
+    "name": "Hemosc Odemar"
+  },
+  {
+    "id": "554834426016@s.whatsapp.net",
+    "name": "Televendas Aline Fort"
+  },
+  {
+    "id": "554898145019@s.whatsapp.net",
+    "name": "Marcus Lohder TI CEPON"
+  },
+  {
+    "id": "554896001505@s.whatsapp.net",
+    "name": "Franciele Zanoni"
+  },
+  {
+    "id": "554891892561@s.whatsapp.net",
+    "name": "Michel Silva Supplay"
+  },
+  {
+    "id": "554888554169@s.whatsapp.net",
+    "name": "Marco Antônio Goes Ti"
+  },
+  {
+    "id": "5511999619072@s.whatsapp.net",
+    "name": "Bruno HPE"
+  },
+  {
+    "id": "554896507857@s.whatsapp.net",
+    "name": "CEPON Djonata"
+  },
+  {
+    "id": "554899262502@s.whatsapp.net",
+    "name": "Sabrina Fort"
+  },
+  {
+    "id": "554899167071@s.whatsapp.net",
+    "name": "Juliana Purapan"
+  },
+  {
+    "id": "554896436503@s.whatsapp.net",
+    "name": "Vitor Colegio Michel"
+  },
+  {
+    "id": "554899559157@s.whatsapp.net",
+    "name": "Edinho Distel"
+  },
+  {
+    "id": "554896312524@s.whatsapp.net",
+    "name": "Hpe Nina FRANCO"
+  },
+  {
+    "id": "554796369661@s.whatsapp.net",
+    "name": "Lucas Totvs"
+  },
+  {
+    "id": "554898422588@s.whatsapp.net",
+    "name": "ON - George - FLN"
+  },
+  {
+    "id": "554891424173@s.whatsapp.net",
+    "name": "Faturamento Expedição Acuo"
+  },
+  {
+    "id": "554891897610@s.whatsapp.net",
+    "name": "Cli Bruno Finger"
+  },
+  {
+    "id": "553198505667@s.whatsapp.net",
+    "name": "Rafael belfar"
+  },
+  {
+    "id": "554891337991@s.whatsapp.net",
+    "name": "Suporte Silbeck"
+  },
+  {
+    "id": "559381203146@s.whatsapp.net",
+    "name": "CEPON Ḷester"
+  },
+  {
+    "id": "554888157944@s.whatsapp.net",
+    "name": "Cli Deps Ricardo"
+  },
+  {
+    "id": "554891864375@s.whatsapp.net",
+    "name": "Vitor OlaMulti"
+  },
+  {
+    "id": "554891676777@s.whatsapp.net",
+    "name": "m7 Larri ACUO IMP"
+  },
+  {
+    "id": "554899932057@s.whatsapp.net",
+    "name": "Jaqueline"
+  },
+  {
+    "id": "555584498097@s.whatsapp.net",
+    "name": "Patrick Fahece"
+  },
+  {
+    "id": "556281400041@s.whatsapp.net",
+    "name": "Rafael Fort Goias"
+  },
+  {
+    "id": "554899337266@s.whatsapp.net",
+    "name": "Hotel Interclass"
+  },
+  {
+    "id": "554899737065@s.whatsapp.net",
+    "name": "Vídeo Vox Eletrônica"
+  },
+  {
+    "id": "5511946455400@s.whatsapp.net",
+    "name": "Diego MDS"
+  },
+  {
+    "id": "554898342254@s.whatsapp.net",
+    "name": "Loja Bruna"
+  },
+  {
+    "id": "5511975354264@s.whatsapp.net",
+    "name": "HPE Bruno Normand Corporativo"
+  },
+  {
+    "id": "554896243399@s.whatsapp.net",
+    "name": "Cli Acuo Lucas"
+  },
+  {
+    "id": "556298699734@s.whatsapp.net",
+    "name": "Maristela Gerente Filial Dgoias"
+  },
+  {
+    "id": "554898299124@s.whatsapp.net",
+    "name": "Jessica Acuo Beiramar"
+  },
+  {
+    "id": "554799631947@s.whatsapp.net",
+    "name": "Joni HPE"
+  },
+  {
+    "id": "554899949387@s.whatsapp.net",
+    "name": "Alvacir"
+  },
+  {
+    "id": "554896211360@s.whatsapp.net",
+    "name": "Marcelo Synter"
+  },
+  {
+    "id": "554888029780@s.whatsapp.net",
+    "name": "Vitor Olá Multicom"
+  },
+  {
+    "id": "554896461128@s.whatsapp.net",
+    "name": "Cricon Cel"
+  },
+  {
+    "id": "554830453188@s.whatsapp.net",
+    "name": "Lsystem Fixo"
+  },
+  {
+    "id": "554898122996@s.whatsapp.net",
+    "name": "Luciano Cli Plurall"
+  },
+  {
+    "id": "554898290512@s.whatsapp.net",
+    "name": "Disleia Texturize"
+  },
+  {
+    "id": "554899563784@s.whatsapp.net",
+    "name": "Mirian Plurall"
+  },
+  {
+    "id": "554896716528@s.whatsapp.net",
+    "name": "Erikis internet Acuo Nações"
+  },
+  {
+    "id": "554899896360@s.whatsapp.net",
+    "name": "Luiz Proativa"
+  },
+  {
+    "id": "555491212020@s.whatsapp.net",
+    "name": "Carlos TopDB"
+  },
+  {
+    "id": "554896606221@s.whatsapp.net",
+    "name": "Ana Renato"
+  },
+  {
+    "id": "554898406014@s.whatsapp.net",
+    "name": "Daniela RC Contabilidade"
+  },
+  {
+    "id": "554835125000@s.whatsapp.net",
+    "name": "Absoluta Tecnologia"
+  },
+  {
+    "id": "554984110542@s.whatsapp.net",
+    "name": "Thomas Chapeco"
+  },
+  {
+    "id": "554896074884@s.whatsapp.net",
+    "name": "Cli Fernanda Acuo"
+  },
+  {
+    "id": "554899848659@s.whatsapp.net",
+    "name": "Kelly"
+  },
+  {
+    "id": "554891837834@s.whatsapp.net",
+    "name": "Mateus Librelato"
+  },
+  {
+    "id": "554896966843@s.whatsapp.net",
+    "name": "Geovani Hotel"
+  },
+  {
+    "id": "554896867493@s.whatsapp.net",
+    "name": "Gustavo Simon Plaszom"
+  },
+  {
+    "id": "554899409535@s.whatsapp.net",
+    "name": "Rodrigo Texturize"
+  },
+  {
+    "id": "554899494577@s.whatsapp.net",
+    "name": "Ricardo RR Ferramentas"
+  },
+  {
+    "id": "554834782622@s.whatsapp.net",
+    "name": "Expresso Forquilinha"
+  },
+  {
+    "id": "554884320358@s.whatsapp.net",
+    "name": "Deivid - Ema"
+  },
+  {
+    "id": "554891391871@s.whatsapp.net",
+    "name": "Nextgen - Mari"
+  },
+  {
+    "id": "554899788880@s.whatsapp.net",
+    "name": "Itamar Orsec"
+  },
+  {
+    "id": "554896377164@s.whatsapp.net",
+    "name": "Guilherme Nextfit Plurall"
+  },
+  {
+    "id": "554896945538@s.whatsapp.net",
+    "name": "e- SHOPPING Rotulos e Etiquetas Suporte Impressora Box520"
+  },
+  {
+    "id": "554834616130@s.whatsapp.net",
+    "name": "TI HSJB"
+  },
+  {
+    "id": "554891063975@s.whatsapp.net",
+    "name": "Cli Valdeci Brasil Tropical Pisos"
+  },
+  {
+    "id": "554899667213@s.whatsapp.net",
+    "name": "Robison Plaszom"
+  },
+  {
+    "id": "555183580426@s.whatsapp.net",
+    "name": "Diuli FortRS"
+  },
+  {
+    "id": "554899784949@s.whatsapp.net",
+    "name": "Edson Fort Química"
+  },
+  {
+    "id": "554896776396@s.whatsapp.net",
+    "name": "Cli Daniela Acuo"
+  },
+  {
+    "id": "554888453850@s.whatsapp.net",
+    "name": "Cassiano Contato"
+  },
+  {
+    "id": "554899942732@s.whatsapp.net",
+    "name": "Flávia Spilere"
+  },
+  {
+    "id": "554896312511@s.whatsapp.net",
+    "name": "Cli Joelson Acuo"
+  }
+]

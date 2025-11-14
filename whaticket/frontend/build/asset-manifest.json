@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab74a11.chunk.css",
+    "main.js": "/static/js/main.ba06738c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.513e22db.js",
+    "static/css/2.2bf035c9.chunk.css": "/static/css/2.2bf035c9.chunk.css",
+    "static/js/2.a1c57e13.chunk.js": "/static/js/2.a1c57e13.chunk.js",
+    "static/js/3.e354da0c.chunk.js": "/static/js/3.e354da0c.chunk.js",
+    "static/js/4.13094ace.chunk.js": "/static/js/4.13094ace.chunk.js",
+    "static/js/5.5b8c382a.chunk.js": "/static/js/5.5b8c382a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.d51360dbf68e7ba89960ca24df066774.js": "/precache-manifest.d51360dbf68e7ba89960ca24df066774.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.a1c57e13.chunk.js.LICENSE.txt": "/static/js/2.a1c57e13.chunk.js.LICENSE.txt",
+    "static/js/3.e354da0c.chunk.js.LICENSE.txt": "/static/js/3.e354da0c.chunk.js.LICENSE.txt",
+    "static/js/4.13094ace.chunk.js.LICENSE.txt": "/static/js/4.13094ace.chunk.js.LICENSE.txt",
+    "static/js/5.5b8c382a.chunk.js.LICENSE.txt": "/static/js/5.5b8c382a.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/favicon.ico": "/static/media/favicon.d982dd3f.ico",
+    "static/media/flowbuilders.5301f11e.png": "/static/media/flowbuilders.5301f11e.png",
+    "static/media/instagram.79535458.png": "/static/media/instagram.79535458.png",
+    "static/media/logo-black.ce82406d.png": "/static/media/logo-black.ce82406d.png",
+    "static/media/logo.4368ccf5.png": "/static/media/logo.4368ccf5.png",
+    "static/media/n8n.55dcf941.png": "/static/media/n8n.55dcf941.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.22d4303a.mp3",
+    "static/media/upload.c42899bb.gif": "/static/media/upload.c42899bb.gif",
+    "static/media/wa-background-dark.4c52474f.png": "/static/media/wa-background-dark.4c52474f.png",
+    "static/media/wa-background.cd00123e.png": "/static/media/wa-background.cd00123e.png",
+    "static/media/webhook.20ba7126.png": "/static/media/webhook.20ba7126.png",
+    "static/media/whatsapp.7f02d15e.png": "/static/media/whatsapp.7f02d15e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513e22db.js",
+    "static/css/2.2bf035c9.chunk.css",
+    "static/js/2.a1c57e13.chunk.js",
+    "static/css/main.4ab74a11.chunk.css",
+    "static/js/main.ba06738c.chunk.js"
+  ]
+}
